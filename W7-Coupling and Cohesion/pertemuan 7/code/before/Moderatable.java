@@ -1,0 +1,3 @@
+interface Moderatable {
+    void moderateReviews();
+}
